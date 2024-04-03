@@ -1,0 +1,9 @@
+# virtual environment
+.venv
+
+# chromedriver 
+chromedriver
+
+
+# settings.py
+**/settings.py
